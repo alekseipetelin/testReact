@@ -1,12 +1,13 @@
-import './Tecnologes.css'
+
+
 function Tecnologes() {
-    return(
-        <ul>
-            <li>html</li>
-            <li>css</li>
-            <li>js</li>
-            <li>React</li>
-        </ul>)
+  return(
+      <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>React</li>
+  </ul>);
 
 }
 

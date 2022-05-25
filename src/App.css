@@ -1,8 +1,8 @@
-/*li{*/
-/*  background-color: rgba(246, 235, 105, 0.55);*/
-/*  color: blue;*/
-/*}*/
+li{
+  background-color: gray;
+  color: blue;
+}
 
-/*.Nav{*/
-/*  background-color: #00e1ff;*/
-/*}*/
+.nav{
+  background-color: red;
+}
