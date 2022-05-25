@@ -1,4 +1,4 @@
-
+import './Tecnologes.css'
 function Tecnologes() {
     return(
         <ul>
