@@ -1,5 +1,7 @@
 .Nav_box{
     background-color: #00e1ff;
     display: flex;
+    padding-top: 15px ;
+    font-size: 20px;
 }
 
