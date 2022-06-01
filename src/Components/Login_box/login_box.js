@@ -3,13 +3,13 @@ import './Login_box.css';
 
 
 function LoginBox(){
-  return(
+    return(
 
-    <div className="Login_box">
-      <button className="button-9" role="button">Войти в сеть</button>
-    </div> 
+        <div className="Login_box">
+            <button className="button-9" role="button">Войти в сеть</button>
+        </div>
 
-  );
+    );
 }
 
 export default LoginBox;

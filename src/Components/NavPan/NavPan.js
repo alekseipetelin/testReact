@@ -7,11 +7,11 @@ import NavBox from "../Nav_box/Nav_box";
 
 function NavPan(){
   return(
-  <div className="nav">
-    <LogoBar />
-    <NavBox />
-    <LoginBox />
-  </div>
+      <div className="nav">
+        <LogoBar />
+        <NavBox />
+        <LoginBox />
+      </div>
   );
 }
 
